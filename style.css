@@ -1,0 +1,14 @@
+
+
+.jumbo {
+  font-family: 'Oswald';
+}
+
+
+body {
+  font-family: 'Oswald', sans-serif;
+  background-image: url("https://muropaketti.com/wp-content/uploads/2017/10/fortnite-battle-royale-001.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
